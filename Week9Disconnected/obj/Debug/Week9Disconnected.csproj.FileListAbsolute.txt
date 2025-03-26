@@ -1,0 +1,40 @@
+C:\Users\primo\Documents\College\Semester 4\.Net\Projects\Week9\Week9Disconnected\Week9Disconnected\obj\Debug\Week9Disconnected.csproj.AssemblyReference.cache
+C:\Users\primo\Documents\College\Semester 4\.Net\Projects\Week9\Week9Disconnected\Week9Disconnected\obj\Debug\DataSetWithMultipleTables.g.cs
+C:\Users\primo\Documents\College\Semester 4\.Net\Projects\Week9\Week9Disconnected\Week9Disconnected\obj\Debug\MainWindow.g.cs
+C:\Users\primo\Documents\College\Semester 4\.Net\Projects\Week9\Week9Disconnected\Week9Disconnected\obj\Debug\App.g.cs
+C:\Users\primo\Documents\College\Semester 4\.Net\Projects\Week9\Week9Disconnected\Week9Disconnected\obj\Debug\Week9Disconnected_MarkupCompile.cache
+C:\Users\primo\Documents\College\Semester 4\.Net\Projects\Week9\Week9Disconnected\Week9Disconnected\obj\Debug\Week9Disconnected_MarkupCompile.lref
+C:\Users\primo\Documents\College\Semester 4\.Net\Projects\Week9\Week9Disconnected\Week9Disconnected\bin\Debug\Week9Disconnected.exe.config
+C:\Users\primo\Documents\College\Semester 4\.Net\Projects\Week9\Week9Disconnected\Week9Disconnected\bin\Debug\Week9Disconnected.exe
+C:\Users\primo\Documents\College\Semester 4\.Net\Projects\Week9\Week9Disconnected\Week9Disconnected\bin\Debug\Week9Disconnected.pdb
+C:\Users\primo\Documents\College\Semester 4\.Net\Projects\Week9\Week9Disconnected\Week9Disconnected\bin\Debug\System.Data.SqlClient.dll
+C:\Users\primo\Documents\College\Semester 4\.Net\Projects\Week9\Week9Disconnected\Week9Disconnected\bin\Debug\System.Data.SqlClient.xml
+C:\Users\primo\Documents\College\Semester 4\.Net\Projects\Week9\Week9Disconnected\Week9Disconnected\obj\Debug\DataSetWithMultipleTables.baml
+C:\Users\primo\Documents\College\Semester 4\.Net\Projects\Week9\Week9Disconnected\Week9Disconnected\obj\Debug\MainWindow.baml
+C:\Users\primo\Documents\College\Semester 4\.Net\Projects\Week9\Week9Disconnected\Week9Disconnected\obj\Debug\Week9Disconnected.g.resources
+C:\Users\primo\Documents\College\Semester 4\.Net\Projects\Week9\Week9Disconnected\Week9Disconnected\obj\Debug\Week9Disconnected.Properties.Resources.resources
+C:\Users\primo\Documents\College\Semester 4\.Net\Projects\Week9\Week9Disconnected\Week9Disconnected\obj\Debug\Week9Disconnected.csproj.GenerateResource.cache
+C:\Users\primo\Documents\College\Semester 4\.Net\Projects\Week9\Week9Disconnected\Week9Disconnected\obj\Debug\Week9Disconnected.csproj.CoreCompileInputs.cache
+C:\Users\primo\Documents\College\Semester 4\.Net\Projects\Week9\Week9Disconnected\Week9Disconnected\obj\Debug\Week9Dis.B2D84EDE.Up2Date
+C:\Users\primo\Documents\College\Semester 4\.Net\Projects\Week9\Week9Disconnected\Week9Disconnected\obj\Debug\Week9Disconnected.exe
+C:\Users\primo\Documents\College\Semester 4\.Net\Projects\Week9\Week9Disconnected\Week9Disconnected\obj\Debug\Week9Disconnected.pdb
+C:\Users\primo\Desktop\To_Upload\CSharp\Products_System\Week9Disconnected\bin\Debug\Week9Disconnected.exe.config
+C:\Users\primo\Desktop\To_Upload\CSharp\Products_System\Week9Disconnected\bin\Debug\Week9Disconnected.exe
+C:\Users\primo\Desktop\To_Upload\CSharp\Products_System\Week9Disconnected\bin\Debug\Week9Disconnected.pdb
+C:\Users\primo\Desktop\To_Upload\CSharp\Products_System\Week9Disconnected\bin\Debug\System.Data.SqlClient.dll
+C:\Users\primo\Desktop\To_Upload\CSharp\Products_System\Week9Disconnected\bin\Debug\System.Data.SqlClient.xml
+C:\Users\primo\Desktop\To_Upload\CSharp\Products_System\Week9Disconnected\obj\Debug\Week9Disconnected.csproj.AssemblyReference.cache
+C:\Users\primo\Desktop\To_Upload\CSharp\Products_System\Week9Disconnected\obj\Debug\DataSetWithMultipleTables.g.cs
+C:\Users\primo\Desktop\To_Upload\CSharp\Products_System\Week9Disconnected\obj\Debug\MainWindow.g.cs
+C:\Users\primo\Desktop\To_Upload\CSharp\Products_System\Week9Disconnected\obj\Debug\App.g.cs
+C:\Users\primo\Desktop\To_Upload\CSharp\Products_System\Week9Disconnected\obj\Debug\Week9Disconnected_MarkupCompile.cache
+C:\Users\primo\Desktop\To_Upload\CSharp\Products_System\Week9Disconnected\obj\Debug\Week9Disconnected_MarkupCompile.lref
+C:\Users\primo\Desktop\To_Upload\CSharp\Products_System\Week9Disconnected\obj\Debug\DataSetWithMultipleTables.baml
+C:\Users\primo\Desktop\To_Upload\CSharp\Products_System\Week9Disconnected\obj\Debug\MainWindow.baml
+C:\Users\primo\Desktop\To_Upload\CSharp\Products_System\Week9Disconnected\obj\Debug\Week9Disconnected.g.resources
+C:\Users\primo\Desktop\To_Upload\CSharp\Products_System\Week9Disconnected\obj\Debug\Week9Disconnected.Properties.Resources.resources
+C:\Users\primo\Desktop\To_Upload\CSharp\Products_System\Week9Disconnected\obj\Debug\Week9Disconnected.csproj.GenerateResource.cache
+C:\Users\primo\Desktop\To_Upload\CSharp\Products_System\Week9Disconnected\obj\Debug\Week9Disconnected.csproj.CoreCompileInputs.cache
+C:\Users\primo\Desktop\To_Upload\CSharp\Products_System\Week9Disconnected\obj\Debug\Week9Dis.B2D84EDE.Up2Date
+C:\Users\primo\Desktop\To_Upload\CSharp\Products_System\Week9Disconnected\obj\Debug\Week9Disconnected.exe
+C:\Users\primo\Desktop\To_Upload\CSharp\Products_System\Week9Disconnected\obj\Debug\Week9Disconnected.pdb

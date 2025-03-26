@@ -1,0 +1,99 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\primo\\Desktop\\To_Upload\\CSharp\\Products_System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E3F5FAE0-BDAF-4BB7-89B4-6E05AB3F93EA}|Week9Disconnected\\Week9Disconnected.csproj|c:\\users\\primo\\desktop\\to_upload\\csharp\\products_system\\week9disconnected\\crudoperationsindataset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3F5FAE0-BDAF-4BB7-89B4-6E05AB3F93EA}|Week9Disconnected\\Week9Disconnected.csproj|solutionrelative:week9disconnected\\crudoperationsindataset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3F5FAE0-BDAF-4BB7-89B4-6E05AB3F93EA}|Week9Disconnected\\Week9Disconnected.csproj|C:\\Users\\primo\\Desktop\\To_Upload\\CSharp\\Products_System\\week9disconnected\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3F5FAE0-BDAF-4BB7-89B4-6E05AB3F93EA}|Week9Disconnected\\Week9Disconnected.csproj|solutionrelative:week9disconnected\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3F5FAE0-BDAF-4BB7-89B4-6E05AB3F93EA}|Week9Disconnected\\Week9Disconnected.csproj|C:\\Users\\primo\\Desktop\\To_Upload\\CSharp\\Products_System\\week9disconnected\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3F5FAE0-BDAF-4BB7-89B4-6E05AB3F93EA}|Week9Disconnected\\Week9Disconnected.csproj|solutionrelative:week9disconnected\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3F5FAE0-BDAF-4BB7-89B4-6E05AB3F93EA}|Week9Disconnected\\Week9Disconnected.csproj|C:\\Users\\primo\\Desktop\\To_Upload\\CSharp\\Products_System\\week9disconnected\\datasetwithmultipletables.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E3F5FAE0-BDAF-4BB7-89B4-6E05AB3F93EA}|Week9Disconnected\\Week9Disconnected.csproj|solutionrelative:week9disconnected\\datasetwithmultipletables.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3F5FAE0-BDAF-4BB7-89B4-6E05AB3F93EA}|Week9Disconnected\\Week9Disconnected.csproj|C:\\Users\\primo\\Desktop\\To_Upload\\CSharp\\Products_System\\week9disconnected\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E3F5FAE0-BDAF-4BB7-89B4-6E05AB3F93EA}|Week9Disconnected\\Week9Disconnected.csproj|solutionrelative:week9disconnected\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CrudOperationsInDataSet.cs",
+              "DocumentMoniker": "C:\\Users\\primo\\Desktop\\To_Upload\\CSharp\\Products_System\\Week9Disconnected\\CrudOperationsInDataSet.cs",
+              "RelativeDocumentMoniker": "Week9Disconnected\\CrudOperationsInDataSet.cs",
+              "ToolTip": "C:\\Users\\primo\\Desktop\\To_Upload\\CSharp\\Products_System\\Week9Disconnected\\CrudOperationsInDataSet.cs",
+              "RelativeToolTip": "Week9Disconnected\\CrudOperationsInDataSet.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAwwGwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T00:15:50.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DataSetWithMultipleTables.xaml",
+              "DocumentMoniker": "C:\\Users\\primo\\Desktop\\To_Upload\\CSharp\\Products_System\\Week9Disconnected\\DataSetWithMultipleTables.xaml",
+              "RelativeDocumentMoniker": "Week9Disconnected\\DataSetWithMultipleTables.xaml",
+              "ToolTip": "C:\\Users\\primo\\Desktop\\To_Upload\\CSharp\\Products_System\\Week9Disconnected\\DataSetWithMultipleTables.xaml",
+              "RelativeToolTip": "Week9Disconnected\\DataSetWithMultipleTables.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-12T00:01:50.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Data.cs",
+              "DocumentMoniker": "C:\\Users\\primo\\Desktop\\To_Upload\\CSharp\\Products_System\\Week9Disconnected\\Data.cs",
+              "RelativeDocumentMoniker": "Week9Disconnected\\Data.cs",
+              "ToolTip": "C:\\Users\\primo\\Desktop\\To_Upload\\CSharp\\Products_System\\Week9Disconnected\\Data.cs",
+              "RelativeToolTip": "Week9Disconnected\\Data.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAowBIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T23:54:59.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\primo\\Desktop\\To_Upload\\CSharp\\Products_System\\Week9Disconnected\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Week9Disconnected\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\primo\\Desktop\\To_Upload\\CSharp\\Products_System\\Week9Disconnected\\MainWindow.xaml",
+              "RelativeToolTip": "Week9Disconnected\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-11T23:39:36.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\primo\\Desktop\\To_Upload\\CSharp\\Products_System\\Week9Disconnected\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Week9Disconnected\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\primo\\Desktop\\To_Upload\\CSharp\\Products_System\\Week9Disconnected\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Week9Disconnected\\MainWindow.xaml.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAwwDsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T23:39:36.502Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
